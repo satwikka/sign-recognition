@@ -1,1 +1,1 @@
-# sign-recognition
+# sign_language_understanding
